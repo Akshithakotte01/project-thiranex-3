@@ -244,12 +244,5 @@ Possible enhancements include:
 
 ---
 
-## Author
-
-**Akshitha Kotte**
-
-B.Tech 3rd Year
-
-Interested in Data Analytics, frontend Development, and Machine Learning, Data science.
 
 ---
